@@ -1,0 +1,9 @@
+﻿<Application x:Class="Phototronix_app_version1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Phototronix_app_version1"
+             StartupUri="Sign_In.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
